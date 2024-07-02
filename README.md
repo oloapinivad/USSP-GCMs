@@ -14,6 +14,12 @@ If the local connection is doomed, the remote server is offline or if there is a
 It might be a little more complicated though, and you will need conda and a tool to run the notebook as Visual Studio Code installed on your machine
 
 All the required data have been archived on: http://wilma.to.isac.cnr.it/diss/paolo/ussp/ussp24.tar.gz 
+There is a small bash script to download the data locally, which be used with
+
+```
+bash download_data.sh
+```
+
 It is 1.4GB, so it will take a while to download.
 
 You will need python3 installed and a tool to run the notebooks. Visual Studio Code is recommended, 
